@@ -8,25 +8,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c12b8a9b-aa58-4b7d-871d-e1a91861a12d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MethodsExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MethodsExercise/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/bin/Debug/net9.0/MethodsExercise.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/bin/Debug/net9.0/MethodsExercise.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/bin/Debug/net9.0/MethodsExercise.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/bin/Debug/net9.0/MethodsExercise.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/ref/MethodsExercise.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/ref/MethodsExercise.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/refint/MethodsExercise.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/refint/MethodsExercise.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/MethodsExercise.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/MethodsExercise.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/MethodsExercise.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/MethodsExercise.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,30 +32,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2yAg0UrPK41Re5bzCleTVl30zuQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.MethodsExercise.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.MethodsExercise.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="MethodsExercise" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -95,7 +88,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749282574338</updated>
-      <workItem from="1749282574856" duration="6322000" />
+      <workItem from="1749282574856" duration="9408000" />
+      <workItem from="1749677756404" duration="4498000" />
     </task>
     <servers />
   </component>
